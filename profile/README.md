@@ -19,7 +19,8 @@ Movavi Video Suite is an **all-in-one multimedia hub**. It combines a video edit
 * **Businesses** producing marketing, training, or product demo videos.
 * **Students** working on multimedia assignments.
 * **Everyday users** converting media or recording screens.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8a8af15d-d3c5-4881-98be-274c9d5593a9" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c8b96f42-7acc-475a-bf13-e30b00d3c066" />
+
 
 ---
 
