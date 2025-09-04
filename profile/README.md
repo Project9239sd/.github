@@ -8,7 +8,8 @@ Video editing doesn’t need to be complicated. **Movavi Video Suite** provides 
 ## Overview
 
 Movavi Video Suite is an **all-in-one multimedia hub**. It combines a video editor, converter, screen recorder, and audio tools in a single environment. Whether you’re producing content for YouTube, recording tutorials, or digitizing old media, Movavi makes it fast and accessible.
-<img width="711" height="400" alt="image" src="https://github.com/user-attachments/assets/ae911182-ae9f-48fd-9cf0-293d42441bea" />
+<img width="2132" height="1200" alt="image" src="https://github.com/user-attachments/assets/70b32075-5ce2-4a51-b1ef-e870b16dd1a0" />
+
 
 ---
 
